@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./Youtube.css";
 import "../../css/bootstrap.css";
 
-// https://www.googleapis.com/youtube/v3/search?key=AIzaSyBn9Ojgv7A4_8JGMYYXCBd0xd_GcnhU1gA&channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=1
+// https://www.googleapis.com/youtube/v3/search?"api key" &channelId=UCE_M8A5yxnLfW0KghEeajjw&part=snippet,id&order=date&maxResults=1
 
 // https://developers.google.com/youtube/v3 => documenation.
 
